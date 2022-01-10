@@ -1,0 +1,5 @@
+rootProject.name = "ijournal"
+include ':app'
+include ':ijournal'
+include ':lib_text'
+include ':lib_ network'
